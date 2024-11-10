@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hendriawan Putra</h1>
-<h3 align="center">Industrial Engineering and AI & ML Engineer</h3>
+<h3 align="center">Automotive Embedded Software Engineer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
